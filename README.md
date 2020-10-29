@@ -1,2 +1,2 @@
 # SA-MP.DL
-Instalador versión de la 0.3.DL-R1 de SA-MP
+Removed versión of SA-MP 0.3.DL-R1, credits to Kalcor and SA-MP Team | Versión eliminada de SA-MP 0.3.DL-R1, créditos a Kalcor y a SA-MP Team
